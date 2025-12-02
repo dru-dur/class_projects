@@ -5,4 +5,5 @@
     <li><a href="blazers_over_the_decades/index.html" target="blank">HTML5 and Intro to CSS</a></li>
     <li><a href="blazers_over_the_decades_CSS/index.html" target="blank">Advanced CSS</a></li>
     <li><a href="blazers_over_the_decades_responsive/index.html" target="blank">Responsive</a></li>
+    <li><a href="different_trucks_final/index.html" target="blank">Final</a></li>
 </ul>
